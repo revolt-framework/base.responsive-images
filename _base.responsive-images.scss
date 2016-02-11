@@ -1,0 +1,23 @@
+//
+// REVOLT!
+// BASE.RESPONSIVE-IMAGES
+//
+
+
+
+// Set `max-width` to `100%` to expand images fluidly to the parent elements
+// size.
+
+img {
+    max-width: 100%;
+}
+
+
+
+// If a `width` and/or `height` attribute have been explicitly defined, let’s
+// not make the image fluid.
+
+img[width],
+img[height] {
+    max-width: none;
+}
