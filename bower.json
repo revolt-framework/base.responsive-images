@@ -1,6 +1,6 @@
 {
-  "name": "revolt.base.lists",
-  "homepage": "https://github.com/revolt-framework/base.lists",
+  "name": "revolt.base.responsive-images",
+  "homepage": "https://github.com/revolt-framework/base.responsive-images",
   "authors": [
     {
       "name": "Ruven Pelka",
@@ -8,8 +8,8 @@
       "homepage": "http://ruvenpelka.com"
     }
   ],
-  "description": "Revolt framework module to style list elements",
-  "main": "_base.lists.scss",
+  "description": "Revolt framework module to enable responsive images.",
+  "main": "_base.responsive-images.scss",
   "keywords": [
     "revolt",
     "oocss",
